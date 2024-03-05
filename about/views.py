@@ -1,8 +1,5 @@
 from django.shortcuts import render, HttpResponse
 
-
 # Create your views here.
-def index(request):
-    return HttpResponse("The Pizza Project")
-
-def 
+def about_us(request):
+    return HttpResponse("About Us")
