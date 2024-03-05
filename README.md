@@ -1,39 +1,42 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# The Pizza Project
 
-Welcome,
+Welcome to The Pizza Project. Our aim is to provide the local and surrounding communities of Bristol with the freshest and highest quality pizza imaginable, outside of Italy or the pizza hotspots of the USA. We craft our pizza sauce and dough every morning, then load up our mobile pizza truck and head out on the open road where we top and cook our pizzas to order on site. Wether that is at your front door, wedding venue, high street or charity event. If we can drive there, we can cook there. Our pizzas are cooked in the wood fired pizza oven in the back of our pizza truck to ensure of that authentic pizza experience.
 
-This is the Code Institute student template for Codeanywhere. If you are using Gitpod then you need [this template](https://github.com/Code-Institute-Org/gitpod-full-template) instead.  We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+The app is a booking management system designed to allow the business owner to easily manage the menu and bookings. It also provides customers with a simple, easy to use booking system where they can view and manage their own reservations. The live link can be found here: *website link here*
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **August 30th, 2023**
+- * Home page screen shot here *
 
-## Codeanywhere Reminders
+## Contents
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+## User Experience
 
-`python3 -m http.server`
+### Strategy Plane
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+Site Goals
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
+### Scope Plane
 
-`http_server`
+Agile Planning
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+*Kanban board screen shot* & EPICS*
+*User Stories*
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+## Skeleton Plane
 
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+## Surface Plane
 
-To log into the Heroku toolbelt CLI:
+## Features
 
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+## Database Design
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+## Technologies
 
----
+## Testing
 
-Happy coding!
+## Deployment
+
+## Credit
+
+Inspiration for The Pizza Project can be attributed to I Scream Tacos. <https://i-scream-tacos.co.uk/> A local mobile food truck based nearby where I live in Bristol, UK. That can be hired to attend local or private events and serve their fresh daily made, traditional Mexican soft shell tacos.
+
+Their business model was used for my project due to it's uniqueness as a method of serving and delivering quality Mexican food to Bristol and surrounding communities via a second hand repurposed ice cream van. Instead of either a operating out of a bricks and mortar establishment or more common static food trailer, likely to be found outside of sporting grounds or in a fixed location within cities or roadsides, by operating out of their taco van they have greater mobility and range than traditional outdoor food vendors which allows them to reach a wider and volumetric greater audience. 
